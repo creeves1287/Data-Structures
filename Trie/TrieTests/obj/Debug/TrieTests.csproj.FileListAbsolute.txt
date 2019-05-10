@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\TrieTests.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\TrieTests.pdb
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Trie.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Trie.pdb
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\obj\Debug\TrieTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\obj\Debug\TrieTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\obj\Debug\TrieTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\obj\Debug\TrieTests.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\TrieTests\obj\Debug\TrieTests.pdb

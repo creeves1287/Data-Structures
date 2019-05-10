@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Data Structures\Trie\Trie\bin\Debug\Trie.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\Trie\bin\Debug\Trie.pdb
+C:\Users\reeves\source\repos\Data Structures\Trie\Trie\obj\Debug\Trie.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Data Structures\Trie\Trie\obj\Debug\Trie.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Data Structures\Trie\Trie\obj\Debug\Trie.dll
+C:\Users\reeves\source\repos\Data Structures\Trie\Trie\obj\Debug\Trie.pdb
